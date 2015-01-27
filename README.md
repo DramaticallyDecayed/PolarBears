@@ -1,5 +1,6 @@
 # Polar Bears
 
+<sub>
 2222552222225i;:;;r;;;;;;r;;;;rrr:::::,,,,,,,,...........                        .........          .:::::::
 2iiiiiSSii55i;..:;::::,,,::;;rr;,..,..   ....    .                                                   ,,,..,.
 2SS2XXX2XXXX2r:;rrr;r;;rrrrrss;;:;;;:::::::,::::::,.,,,,,..                       ....,,,,,....      :;::::,
@@ -47,3 +48,4 @@ r;iiiS2222225S522S555Siiiiisssssrrrrrrrrr;;;rsSSSiiisrrrr;;:,..rX222SiiiiSSiiiiS
 r;iS5225225552XX22X255iiii5Sissssssrsrrrr;;riS2255Sisrrrr;;:,.;2222SiiiSSSSissiSsrrr5ssirrSr;;;;r;;;;::;;;;,
 rrS522522222XXX2XX2522SSS255SiSiisisrrrr;;rrS222555iiisrr;;:,:;r52SSSSSSiissiiSirrsi5ssisrrirr;;;;;;;;;;;;;,
 r;iiiSSS555SSSS55SiiSiiisiisissssrrr;;;;::;rriSiiiiissrr;::,..,;siiiiissrrssissrsisssrrsrrrr;;;;::::::::::,.
+</sub>
